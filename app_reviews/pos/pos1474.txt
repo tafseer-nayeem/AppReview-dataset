@@ -1,0 +1,12 @@
+Opencv KNFBReader, the develop of the knfbreader embedded opencv in the mobile app, knfbreader app used by the blind to transfer prin from your smartphone camera, then OCR transfer to capture print back into text  then TTS, KNFBReader reads the print.KNFBReader is available for Android  Apple devices.TwitterCountfd
+Make it work on Note 5 please Does not install on Note 5. Otherwise love it
+Nice
+Good
+Awesome
+Great product
+Samir Work
+Go Gjs
+Jjuuko
+Huduma hii ni nzuri sana na ninaipenda
+Open cv library for your stock camera fast focus on objects ,as the camera can't focus correctly ,try on Samsung s 4 ,perfectly clear photo ,improving the photo clearly and bright ,perfect  Perfect 
+Great for my robot I've been using it for computer vision for my robot I'm building. The only issue I've seen is that it randomly reboots my phone once in a while.

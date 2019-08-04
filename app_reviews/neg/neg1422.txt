@@ -1,0 +1,9 @@
+Doesn't work. I have other apps with scanners in them that work with no problems but the scanner apps on their own don't seem to. How come they can't or don't make these apps so you can enter the barcodes manually if needed I would rather just type the code then stand in a store with a scanner that may or may not work.
+Screen rotation Everything works great except the screen rotation in camera interface, really annoying...  Please fix, will give 5 stars
+Slow QR processing. I use this app with Google authenticator. App takes forever to process a qr code when there is faster more efficient scanners out there like the one by Scan, Inc.
+Google really needs to make their own rather than recommending this app.It is so flaky. Sometimes it will read a QR code other times it won't.
+Stopped scanning QR codes It no longer scans QR codes on my S6. This happened after the update. Please fix
+Worst....almost i catched for half an hour, across one product. But it doesn't working on my phone..B
+Does not work on nexus 5x Opens up but does not access the camera properly. Activates the laser focus but not the camera.
+Very low success rate. The success rate at finding a product description after scanning a barcode is down to around 1 in 4.  I rarely bother to scan any longer because it's become such a waste of time.
+Doesn't work on my tablet

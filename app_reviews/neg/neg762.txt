@@ -1,0 +1,11 @@
+Not Working USB Device or partition type is not supported by solid explorer. It's just a standard sd card reader and ES file explorer supports it just fine. Hopefully future updates will increase support proper OTG is the only thing missing from this otherwise perfect app. UPDATE Unfortunately, its still not working despite recent updates. Happy to provide more information if it would help.
+Poor on Android 6 It used to work perfectly in lollipop, but it works poorly in marshmallow... The default file manager can copy files to the USB drive at normal speed, while this can only manage 60kbps, pretty much useless... Needs work
+Doesn't work in Android M. All files transferred with this app were not found on the USB drive afterwards. Had to navigate to mntmediarw and do it manually.
+Missing valid OTG license. Not working. Using usbc
+Not work Error for nexus 5 v 5.1.1
+Can't find valid licence
+Not working Can't see my multi partitions external hdd
+Not working on Nexus 5 Android M. Device was mounted okay but Solid Explorer ONLY shows Android and LOST.DIR folder. No other folder or data is shown. FIX IT ASAP.
+It doesn't work on Nexus 7 2012 with Lollipop 5.1.1
+Not working on my Nexus 6 Tried multiple times and still not working Saying test fail
+Still can't read any folders... I'm using Nexus 9.

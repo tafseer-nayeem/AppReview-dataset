@@ -1,0 +1,7 @@
+Stopped working Worked fine for a few minutes and just stopped refreshing data. Refresh button on server select screen doesn't refresh data either while rusty sheriff refreshes just fine so not a connection issue. Once in a blue moon it does connect but only for a little bit.  45 stars for the UI design. 15 for functionality and reliability. Awaiting next version in hopes for fixes and improvements.
+Worst Never updates server to see info  you can't see game chat.
+Doesn't work anymore Was working fine tell it crashes every time you load it. so sad you broke something so good. Samsung galaxy note 3
+DO NOT WASTE MONEY New Multiple servers show rcon for all servers very confusingThis app used to be OK, its still flawless on a crap empty server, try this on a 30 server it lags and crashes, on a 90player server its about as responsive as a dead cat, good luck trying to type in console with even 30 people online... Don't know what's been done but god sake this is utterly useless for me right now.
+Can't connect I can't connect to my server. I've triple checked the connection info and it fails to connect
+Was working till update Says I need new sdk I'm on 4.4.2 on note 3
+It's pretty handy, still very buggy for the price I paid. I'd like to see an easier way to chat as server console implemented. Also I think the player list needs to refresh we  you pull down as this doesn't seem to happen.

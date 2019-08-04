@@ -1,0 +1,2 @@
+Won't work I kept getting a could not install to USB device or SD card error on my first gen nexus 7.  
+App not working After lollipop update, does not install. Would advise not to buy until this is sorted out.

@@ -1,0 +1,5 @@
+Slow, unlike most native apps Unfortunately, the latest update did not address the issues I pointed out before. The interface is slow. Every single time after an option has been selected, the app displays loading or going online or securing session for several seconds before the user is taken to the next screen, regardless of the qualityspeed of the internet connection. This is extremely frustrating as it completely destroys the user experience. Capitec should really be doing better.
+Atm locator Would be nice if we could   locate nearest atm and be able to buy data bundles to use this app
+No pin being prompt after update
+App not working Can't get past home page.
+Not pleased This app is not working. I cannot log in.

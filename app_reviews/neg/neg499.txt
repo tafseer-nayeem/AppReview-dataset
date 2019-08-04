@@ -1,0 +1,3 @@
+But this need some more improvement. Seat Avail and Forcast shud work properly. If we look for any train for a date, once result displayed and if just want to change the date, need to reenter all information. Also getting hanged agian and again. Add trip is also not working as it shud. This new upgrade is not at all good, it was better earlier.
+Bugs bugs.. Before the update the is very useful but after update While selecting the seat availability and typing the station the app is closing itself.
+Bug's App was closing itself after selecting seat availability, date and  while checking PNR status otherwise it is a good app

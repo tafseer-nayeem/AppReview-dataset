@@ -1,0 +1,5 @@
+The online interface needs two additional options. Turning off the app, and restarting it. The flash option randomly stops responding, and I often get just a black screen unless I manually restart the app. Tbh a way to start the server remotely without needing tasker would be neat too.
+You promised we can make our own IP Number on pro. My IP keep changing all the time
+Used to be great. Now stops streaming as soon as set to run in background. Changing the resolution and quality does not help.
+Loads of problem, not very clear in settings. Its not working, doesn't connect.
+I paid for this app and it keeps crashing saig License error

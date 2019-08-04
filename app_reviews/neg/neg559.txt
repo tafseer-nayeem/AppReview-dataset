@@ -1,0 +1,15 @@
+Makes a huge mess You can't copy large numbers of files simultaneously. The app crashes or they get corrupted. I have to copy in small groups of 20 or so and that really sucks. Nexus Media Importer is much more reliable for large copy jobs and backups. Nexus 5.
+Doesn't work fine When copying a large amount of data it misses files. I would have lost a lot of information if it wasn't for my cloud back ups.  Worst paid app ever....
+Not working with multiple files Application doesnt work with multiples file, i try to copy over 600 pics to a Sandisk dual, stop and many files missing and the ones who copy are 0kb
+Meh App looks nice but it does not work  lags a lot...
+Doesn't work I can see all my files and copy them to and from my device but I can't play .mp4 videos from the USB stick which is why I got the app I'm using vlc to open the .mp4 my memory stick is FAT32 format it's a 32Gb SanDisk Cruzer Blade. Strangely it can open .mp3 music and .jpg images Any help P.s. any one else having this problem.
+Since the latest update the app has stopped recognizing my flash drive. I always use the same flash so the problem is not in quality of the device. It used to work properly, but now when I tap  the connect button it says  No valid FAT32 or NTFS partition has been found on your USB device. ERROR07  I've also tried to format the flash drive and change it from FAT32 to NTFS but it didn't work. My phone is Nexus 5. Hope you'll offer the right solution for this ussue.
+Nexus 6 Crashes when I hit connect. On Nexus 6. Using the Kingston micro duo. Works on N5
+Read only The app said read only so is not that I expected
+I cannot play my mp4 video format I used both mx and vlc player, both didn't work. The main reason I bought this is to enable video playing directly from the USB. Via nexus 6, lollipop.
+Crashes every time This app worked the first time, then crashed every time thereafter. Need a refund.  Does not work as advertised.
+nexus 5 this app not working i connected to the otg pendrive then they show error5 everytime .plzzz refund my money as soon as
+Not working at all when I connect my OTG through this apps, my OTG unmounted automatically from system and same is not operative by other apps. Please refund my amount.
+slow on my nexus 5 when i try watching movies, it cant play videos, only forever loading
+Problem recognizing USB drive I'm using Nexus 7, running 5.1.1.  My USB drive is formatted NTFS as recommended. When I followed the app's instruction in connecting the drive. Only an error message pops upNo USB device is connectedERROR 01.  When I reformatted and connected again, it recognized initially, but again showed the error message. Works very sporadically.
+Please fix it Not showing in my purchases when I am trying to install on my nexus 7. First I installed in both my nexus 5 and 7. It did not play a movie directly. So I requested for refund. I tried again after seeing some videos. It worked. Now that I have purchased again I want to use it in both my device's. Your email I'd please.

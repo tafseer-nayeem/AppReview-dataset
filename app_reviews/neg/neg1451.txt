@@ -1,0 +1,11 @@
+Faulty I now get system errors saying camera is in use and it crashes. Never had it before this update.
+Caused camera error, needed restart I have a Samsung Galaxy S3 Verizon OS is Android 4.4 After scanning UPC code for products, error camera has error may need to restart . tried 3 bar codes, same error with all of them. It did find one product out of the bar codes.  I need to keep trying, but error is troubling.
+Camera issues After using the app, I would get a error message about my camera. Phone is a S5
+Scanner Keeps crashing cannot see all features worse than free version
+Works. But seems unaware of aspect ratio of camera  it fills the whole 169 screen with the 43 image from the camera. I'm going back to ZXing tean version for now. Goes over the status line too which I hate. 
+Good on my S3 But not so good on my tablet. Will work on front camera only but is reading barcodes backwards so they are inaccurate. Could you add a mirror option for front cameras
+Deformed camera image during scanning It's more of an annoyance than a problem codes still scan OK, but the camera image while scanning is stretched in landscape and squashed in portrait.
+Free version sometimes works better I noticed that expecially with some complex QR code as the Japanese visa for example  the free version is able to decode them but instead the paid version is not.. Weird
+Very buggy on Nexus 7 Needs high light levels camera image is backwards scans UPC codes incorrectly and inconsistently.
+Never focuses
+NEEDS UPDATING It used to be great until I changed phones. Now it keeps crashing on my Galaxy S5 and constantly asks me to restart my phone. I hope an update fixes this soon.

@@ -1,0 +1,8 @@
+Pro version broken on Android 6.0 As of 101015, pro version is broken. App cannot open with pro license installed. Also functionality of audio routing is broken on Android 6. If you need this app to make audio from calls routed because of a broken headset jack, avoid updating your OS to 6.0 until they have sorted this app out. Multiple entries on the soundabout forum re this issue. Until I updated to 6.0, had lots of great and relatively consistent functionality of the app.
+No longer working I paid for the pro version and just hooked up my galaxy s6 edge plus, worked once then would not open again, Uninstalled and attempting to reinstall and it's not working now has been installing for a long time now, very upset what is going on
+Nexus 5 Android 6 Worked perfectly on Android 5, doesn't work on Android 6. Won't even open the app.
+Used to be good ... ... but after the big update it is just a piece of sht. TTS not working. Music stutters.
+LG G3 Ineffective on the G3.  Does not actually change settings.
+Bought the pro version but. .. The options that say pro version required are grayed out.
+With Bluetooth, notifications keep going to speaker again despite being set not to.
+Doesn't work After multiple reinstalls I sent an email to support.  All I received was a canned response to go to a website.  There was a link to downloads, but that didn't work either.  The ads on the web site did work after I unintentionally clicked on one.  It is a shame that I immediately went for the pro version and wasted 3.00.  Avoid the hype about this totally useless and unsupported application.

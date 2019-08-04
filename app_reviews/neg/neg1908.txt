@@ -1,0 +1,8 @@
+Excessive permissions One of my favorite VOIP apps until the latest update.  It now requires an excessive  amount of permissions  far more than a VOIP app needs.  I've removed it and am trying a different VOIP a which requires only permissions reasonable for a VOIP app.
+I'm today update my Bria to 3.4.5 version and I  have don't working service. 503 service unavailable.  Yesterday Bria good working. I'm today update my Bria to 3.4.5 version and I  have don't working service. 503 service unavailable.  Yesterday Bria good working.  Please help me. My phone LG MS395. I'm check wifi wifi have IPv4 and service available. But mobile data have IPv6 service unavailable. Why the mobile network is not working BRIA
+why it does not work on LTE
+No sip server option I spend an hour trying configure my account. I need different values of sip server  and domain, but where are no option to configure it. I installed another application and do it in seconds. Annoying dtmf buttons sound can't be disabled.
+Still incompatible with lollipop When a call comes in it is not presented as a lollipop notification, thus 100 missed when sound is offandroid wear active.
+Was great until the recent update. Now doesn't work at all. Thanks CounterPath.
+Doesn't work over 4g Over a sudden, after the last update, it stopped working over the carrier connection.
+App needs improvements I have multiple crashes while I use the app. The app have voice delays and I have to realize multiple calls when I am speaking with customers, evev if i have the phone side by side with the router. I have some issues using the bluetooth too.

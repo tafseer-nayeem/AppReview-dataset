@@ -1,0 +1,1 @@
+Auto focus stopped working after update Please fix it, the focus is not functioning well and it takes way too long to read.

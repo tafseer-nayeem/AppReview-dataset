@@ -1,0 +1,2 @@
+Crappy Was good now when you complete a puzzle instead of scoring the time it reverts back to last saved starting point.
+No way to save games This app has no way to keep games, to keep track of your scores or place in a game. It resets to a new board every time it closes.  Also no complete word list or track which ones you've found.  Not a very good app.

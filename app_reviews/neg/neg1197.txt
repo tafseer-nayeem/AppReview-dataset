@@ -1,0 +1,4 @@
+Control Problems Rogue app, keeps playing afer you have tried to stop or close the app, had to reboot the app to stop it.  Needs some work.  Looks nice though.
+Covers Not Selecting Won't let me select album art covers from Gallery. Gives url error.
+Why cant play  Bring back my money
+Themes issues still hasn't been fixed Sony xperia z3v

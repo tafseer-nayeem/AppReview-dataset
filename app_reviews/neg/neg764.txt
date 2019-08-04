@@ -1,0 +1,1 @@
+Some calculators as led stripe are not working at all

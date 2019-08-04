@@ -1,0 +1,2 @@
+Used to be good Widget does not update the date and weather. Useless until the app is fixed.
+GUI GUI is kinda stupid.

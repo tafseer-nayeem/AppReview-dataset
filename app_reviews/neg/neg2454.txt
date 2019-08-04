@@ -1,0 +1,1 @@
+Installs but says 'download error  licenced' when opened I can't even play the game, I've tried clearing the cache and rebooting. Nothing works

@@ -1,0 +1,1 @@
+Resets my progress every time I exit the game. Does not cloud save.

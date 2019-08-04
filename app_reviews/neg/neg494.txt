@@ -1,0 +1,2 @@
+bad there r some issue. when we change the station of departure at mid night trains, the date of the train dont change so its showing error. like weekly trains.... and also some issue in special trains. when trains are not running,  its showing the train list when we search
+Grt Use full made all in one

@@ -1,0 +1,1 @@
+Some keys dont play a sound. Buggy app

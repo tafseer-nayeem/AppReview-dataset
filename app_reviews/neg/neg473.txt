@@ -1,0 +1,3 @@
+Some shortcomings I know how to zoom but the zoomed size does not remain intact..it returns to the original size again.
+ads after every few page loads, it will give you a full screen ad, closing which will make the app restart. its ridiculous and extremely annoying while navigating.
+IRRITATING ADS For every notification a new AD is coming and after that AD, APP itself restarts. Good content with irritating ads

@@ -1,0 +1,7 @@
+Gyroscope Bug When calibrated, North is accurate when the phone is held flat But when held into position of a planet located to the South, it shows that the position is East which is inaccurate . This also happens when moved to other locations and gives incorrect information. Please Fix for Galaxy S6.
+Camera upside down Nexus 5x
+Failed on both Samsung devices. Note 4 Compass did not function. On the Samsung Tablet the camera view was sideway. Would like a refund.
+Skyview on Note 3 The menu button simply does not work. Do not purchase this if you have a Note 3. Too late for me to get a refund.
+Not cool Loved the app when i had an iPhone but now i have an android and it is not working properly. Please fix bug
+Used to love it Now app is broken. Everytime I try to zoom in and identify something, it skips to a whole other location.  Loved it when it was bug free
+No longer functional for me Screen does not move to allow me to explore, but instead is constantly frozen on one area. This has gone on for a long time. Haven't used the app in forever as a result. Like others have stated, app used to be great Now seems useless.

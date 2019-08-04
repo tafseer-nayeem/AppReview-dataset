@@ -1,0 +1,13 @@
+This is not working for me Ive paid for and downloaded the contour lines plug in, selected 'enable' of the contour lines plug in in settings and ticked the box for 'hillshade layer' in the configure map option. Nothing nada. Whats happening please
+Hit or MISS Contour maps don't appear to display consistently, installation instructions are incorrect they should read Settings gear icon gt Manage Map Files gt All Downloads gt select the dropdown that says Regular Maps and  choose the Contour Lines dropdown, then select the map to download....  Then do the same thing again but select Hillshade Overlays and download those maps as well. By the time I figured all this out, it was too late to refund the purchase.
+It doesn't work.... If you have the free version of osmand and have already downloaded 10 maps this won't work.
+No auto download, poor shading The contours and shading did not download and install automatically on my Sony Xperia Z3 compact. Once installed manually, shading was patchy and uneven across the map in the Leith Hill area of the UK.
+Contour maps will neither install or download in OSMAnd 2 Plugin does not install correctly
+Very disappointed Didn't work out of the box,  instructions available but the sum conclusion was to clutter up my phone with more data that cannot run on external storage. Additionally,  wasn't able to get a refund. Sucks
+Not working for me. The OsmAnd help pages are totally useless unless you're a digital mapping nerd. OsmAnd needs to decide whether they're providing a service for people who use maps, or providing a sandpit for people who want to make maps.
+Does not work with osmand v 2.x This app and the instruction do not work with the new version of osmand v2.x
+Does not work... The plugin messed up Osmand. please refund
+Contour lines and shading Doesn't matter what I do it just doesn't work
+Download instructions SettingsManage Map Files  select ALL DOWNLOADS and then a pull down will appear at the top with Regular maps showing. In the pull down select Contour lines.  Hill shade is in that same pull down if you want those too.
+I wish I could get it to display.
+How to get contour lines to show up There is no clear way to get contour lines to show on map

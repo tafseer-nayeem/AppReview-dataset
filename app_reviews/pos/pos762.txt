@@ -1,0 +1,14 @@
+You do not necessarily need this Marshmallow developer preview 3 natively supports mounting usb devices but the app asked for this plugin to access the drive anyway. Mine was mounted under mntmediarw so I could access the drive without this plugin. But since this is the most well designed, fully funtional file explorer on the Play Store I think an additional 0.99 towards developing this app is totally worth it.
+Great plugin for a great app Plugged in my new sandisk USB drive and opened solid explorer... it automatically recognized the drive and promoted me to install the otg plugin Works great.
+Works You just saved my bacon on an 8 hour flight because I accidentally formatted my stick as NTFS, which Marshmallow didn't support natively. Great addition to an already great file browser.
+Works great On my rooted N5 and on my stock N9
+Excellent Solid Explorer plugin for my tablet.
+Plss enable write support for ntfs format too soon enough...
+Not working please fix.
+Excellent
+Issue resolved The new update has now resolved my issue, thanks
+Works great on Nexus 5 This makes file transfers simple without having to use the cloud.
+Shouldn't be charging for this but it works
+Works great with Motorola Nexus 6
+Plain and simple Works as advertised
+Took a few updates but no longer crashes. It copies files to OTG drives just fine. The best.

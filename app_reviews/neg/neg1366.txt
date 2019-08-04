@@ -1,0 +1,3 @@
+Used to work great Unable to delete runs and unable to export data.  Wish there was a rollback to older version or new fix
+FRANCE Not accurate french map, really disappointed
+Try a different GPS It doesn't always show your way points. It crashes. The UI  not intuitive. Try something else.

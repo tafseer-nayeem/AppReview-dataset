@@ -1,0 +1,10 @@
+2005 Mercedes Benz c230 k WONT WORK it will connect to my OBD 2 but it will only let me choose one option on the menu page and that is the logbook ... then when I choose logbook it sends me to a blank screen with no where to go... don't know why Help 
+Won't go past test protocol 3 nothing happens Cant get any info on car at all as won't connect
+Poor connectivity This app won't read my 1998 Acura CL that is obd2. Whats the deal where is reads all obd2 protocols, which it does not. Uninstalling.
+Only Bluetooth, i pay for PRO and there not supported wifi.  
+Won't clear error codes Alfa gt '06 detects errors on free version. Doesn't detect or clear on pro. Confused.
+Lord Lynas of Kilern Handsome chapter
+Bugy app If I were you, I'll fix all bug on app before start selling it. Your free version can able to clear trouble code. But this version not able even to show me a fault code and app will be disconnect right after touching that option. The multigraph is useless because there was no any label for graphs.  Also there was no any logic on showing values on map with color bar. Bluetooth Take more time and try to make connection than free free version. I am not satisfied with this purchased.
+Won't stay connected Connects to obd connector but drops connection after a few seconds. Tried sending a debug log but it data there is no log data to send even after turning debug logging on and attempting to connect.
+Doesnt allow exporting data Expected to save files and export since this is a paid version. What a disappointment Other apps can much more for a similar price. Also takes ages to get connected to the device.
+Not fully functional yet Will rate 5 stars when reads more than p codes and bi directional controls are there bi directional controls is the ability to control actuators

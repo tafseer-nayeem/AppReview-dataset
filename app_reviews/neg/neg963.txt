@@ -1,0 +1,6 @@
+IT DOES NOT WORK This app worked one time.  Then it didn't.  It hasn't even tried to sync for 2 months and only with 2 pairs and both errored out.  Wrote Dev.  Was basically told that it should work fine and that was about it.
+Very difficult to setup.  Help section is unclear.  Unable to pair folders according to the cryptic directions provided.  Frustrating.
+I cannot open a SMB share. I can open it on every computer and I can open it using Total Commander on Android. I cannot open it using this app. I really want to like this app, but it is too inconsistent for me.
+This app has problems syncing medium  large files to network samba shares. Even small videos made on my cell phone cannot be synced.  I have Sent detailed debugging info and log files to developer but never got a reply or bug fix 
+Not working at all. Sync in progress... but no data transfered at all.
+Was working Not sure what happened, but now it gets an error every time it syncs. Would love it if it would start working again. Error is very vague.

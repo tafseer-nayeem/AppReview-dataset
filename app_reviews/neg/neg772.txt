@@ -1,0 +1,16 @@
+App Backup and Restore lousy GUI unusable...go back to dark theme. ..paid for this cause it worked well.  Now GUI is unreadable because of the light theme. . sorry it is lousy and no longer usable. Why do you need any permissions other than readwrite to sd
+No external SD card support on 5.1.1 Seriously  I have the paid version of this app and can only backup to my phone storage  Lollipop allows writing to external SD so not being able to do this is a dev problem,  not my card or my galaxy note 4. Every other app I have can write to the sd. This is useless as a backup app.
+No Support Still, for some reason the theme changed to white background. I rather have the dark background. Running Lollipop v5.
+nice backup on install feature cant have it backup my apps on sd though... using samsung galaxy s4 running 5.0.1 stock... however other apps can access the sd card so its not os related nor is phone related... kindly look into this issue.... been a long time and all u came up with was improved loading speed SERIOUSLY
+Was a great app Until marshmallow, now can no longer write to external sd card a fix will warrant 5 stars
+Not support It's not supporting to samsung galaxy J7 it says that warning of Risk of Backup files It's not supporting External Sd Card and doesn't shows old backup files it says it's rewritable not drive and path  fix it
+Can't write to sd card. No permission This app doesn't have write permission to sd card in lolipop or kitkat too. Even i can't backup my apps to sd card directly without write permission in my LG G3 STYLUS D690. Always pop up the disk is not writable when changing backup location to sd card. Useless app. Kindly update asap.
+Of course I do Still can't back up to SD Enough is enough guys. The app is a great idea but the coding is weak.  Every other app I have is now able to access sd under lolipop.
+Not backed up in SD card Apps are not backed up in sd card. Previous version was fine. Fix the issue
+Poor It doesn't work in android 5.0.2, please fix it.
+Version 3 was 5 stars. Version 4 visible slower, number of apps still missing, asks for extra permissions. Version 3 was the best I could find Good, Light on CPU and fast.
+Not support  in YU yureka AO5510 SD card not read  SD application not in stall
+Can't select SD Selecting the SD card pops up an error saying it cannot write to the SD card...
+Not working properly now I back my installed apps in sd card bt it automatically remove my backup.. smtimes says protected apps cant backup..dont know wts this
+What Why can't I see the backup button I can only see it when i rotate to landscape view.
+Not always overright app. Other create app old  new. Only apk backup not SMS,CALL LOG and CONTECT.

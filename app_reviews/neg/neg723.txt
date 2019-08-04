@@ -1,0 +1,6 @@
+FNB PLEASE UPDATE THIS BUGGY APP Bugs in navigating with back key and me . GPS bug as soon as the app is opened where it just polls the GPS continuously and drains battery. This app as whole EATS battery. MATERIAL DESIGN IS NEEDED HEAVILY This is far from optimized for Android
+It used too work fine until I upgraded now its slooooooow please fix it
+This latest version is terrible Suddenly all my InContact notifications are being pushed through the app. My incontact settings have not changed in years, they work via SMS or email, whatever I choose and they work just fine. Now I get double notices on my phone as the app suddenly sends me duplicate messages. I can't seem to find any setting in the app to turn off these push notices. This is not cool
+Battery drain The app is currently draining battery as the location service does not switch off when the app closes.
+Excessive permission requests The app is asking for far too many permissions. You have no right to have full access to my phone FNB. Trim those unnecessary permission requests please.
+Huawei P8 I love the app,but can't rate 5 at this moment as afer reinstall it does not work it says system unavailable and link pairing failed

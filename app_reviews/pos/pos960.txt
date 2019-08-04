@@ -1,0 +1,1 @@
+iParadox license validation on Android license is not an issue. depends how quikly you link to your alarm after opening the app. android phones wifi is not active immediately after unlocking and depending on cell phone network

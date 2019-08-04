@@ -1,0 +1,8 @@
+What is gyroscope Where do I get it What about some directions  We're using Google Cardboard. Nothing is happening.
+Too shaky and pixelated.  I'm sure you guys could smooth out the motion, it's too shaky to focus properly. Also if you applied an anti aliasing render it would be a lot easier to look at. It's so pixelated that the left and right eye see completely different pixel patterns.   A nice addition would be to let the view navigate like in the google earth demo.
+Doesn't work When I start the app I just get cricket sounds in the background with a flashing black and white screen that could give me a seizure.
+Not that interesting. Shadows and lighting are wrong at dawn compared to the sun. Nobody changes clothes for different seasons or times of day People walk directly through the staged camera's path. A little bit of interactivity beyond changing scenes e.g. move in the direction being viewed would have been nice.
+Developers, Please help me. It is not working with my InFocus M2 3g. Colored moving lines appear with audio.
+Is that it
+Its too bad Not working on my glxynoteedge, all i see is the disgusting blingking lights, i thought it's gonna be awesome..when i see the sample pics and i use a cross eye its just cool..kkkkk pls fix it i want to go to this village 
+Doesn't take screen size into consideration I can't use the app on my device because it has a smaller screen, and the two images are too close to each other. Google cardboard app doesn't have this problem and shows the images at pupils distance.

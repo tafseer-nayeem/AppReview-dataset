@@ -1,0 +1,1 @@
+Handy app with rich functionality. Some bugs, however, are present 1 Was unable to synchronize with Dropbox credentials are not recorded 2 Unable to add base currency.  Haven't attempted to create some detailed reports or charts yet, but otherwise it seems to be quite useful for keeping personal accounting.

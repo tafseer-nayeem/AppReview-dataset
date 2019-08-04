@@ -1,0 +1,17 @@
+Crashing App seems to crash when adding more than one comic in succession.
+What a waste... Not even worth the 1.50. Eats memory. crashes all the time. When trying to add comics, half the time the catalog doesn't even show up. Such a shame.
+Used to be 5 stars I used to love this app... until previous updates broke the add title function and bar code search. Updates seem to make things worse each update. I can now add titles, but seems to be hit and miss getting results from search. Bar code always used to find the right title 98 of the time. Now force closes when scanning, force closes when updating so can't even add new titles Regret paying for it when free version works better...
+Gettin frustrated Used to love the app recent updates just broke the app
+Unable to use, just crashes Really wanted this to work but can't even use it, it just keeps crashing on Samsung Galaxy s6.
+If I can backup database now I will give more stars...Newest update is garbage, loved app until latest update...
+Suck Worked, then it didn't. Updated and needed a Comic Vine key. Updated and it worked again. Then, as usual, it stopped working. No reply from the developers. Finally, after months and months with no response and no activity to their facebook page, another update. Don't bother. Take the time and make your own database using Google sheets and Google Drive.
+Used to be great This app has been broken for months. It used to be amazing but gets a little more broken with each update.
+Just what I needed Originally I gave it 4 stars.  The scanner almost never works and it only holds comics on on device.  Also email coulsnt be sent because email full.
+What did you do Since the API nothing works cant add doesnt update.  Would appreciate a response
+Good, but needs work. This app worked well and was useful, but now it won't let me add anything else. Very disappointing.
+Limited comics, it can't find everything. It doesn't allow you to set your cover image to any thing other than the standard, needs variants. It also doesn't always add the comic you selected into your list even after hitting confirm to add.
+Won't let me add Won't let me add any comics to my collection and anytime I try to use the Barcode scanner the app shuts down.
+Pull list not working Really liked then the pull list stopped working months ago. I reinstalled a few times but still not working.
+Crashes If it worked properly it would be amazing. Takes forever to find covers can't use the bar code scanner or it crashes.
+Its a Good app The only problem is that the application sometimes won't allow me to add books
+What on earth It was awesome, but now it can't search for any title, even titles that I already have in my collection. I tried updating my API key, but it doesn't help. The barcode scanner in completely useless. What is going on

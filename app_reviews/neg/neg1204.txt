@@ -1,0 +1,1 @@
+Songs skipping in lollipop After starting songs are getting skipped from one point to another point and plays from any part of the song. This occurring after I upgraded to 5.1 Lollipop. This app has become useless now. No change after changing the quality of the output.

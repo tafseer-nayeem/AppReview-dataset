@@ -1,0 +1,1 @@
+stopped working afer upgrade of android to 5.0

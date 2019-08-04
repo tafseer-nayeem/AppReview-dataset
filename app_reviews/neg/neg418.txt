@@ -1,0 +1,2 @@
+Reports many fewer steps than Walked Logger. By 3550  I don't know how this happens, as they are on same phone, and I entered the same calibration factors, both with highest sensitivity. After a few days, it stopped altogether. Uninstalling.
+Never count steps with screen off. Its either always Stop or always Start. Even when running in background, it stops counting steps. Would definitely uninstall it.

@@ -1,0 +1,14 @@
+No 8way DPad for touch emulation I love this app, but not having full 8way DPad support really limits the use of touch emulation. Any game that uses a virtual analog stick effectively renders the diagonals on the DPad useless. There are lots of people who like using a DPad, and this really needs fixing. Once it's fixed, I'll happily rate 5 stars.
+Doesn't work Tried on 3 different android devices and doesn't seem to connect the controller. Will only pair but not connect.
+Disappointed. Still no android 6 support despite it being available to developers since April and it being official on my device now
+My fault  Nexus 7 I was way too excited when I learned about this app from a video I was watching and downloaded it asap.  I should of downloaded the compatible checker first.  Doesn't work for my first gen ps4 controller on my Nexus 7.  The rating is not for the app but for not working on my ps4 controller.  Hope this is resolved soon.
+Nexus 6 Used to work great on my nexus 6, but after updating to marshmallow the controller doesn't pair anymore, please fix and I will adjust the rating.
+only works on ppsp cant get it to work on games that dont suport controlers. the keytouch mapping do nothing
+Almost pulls it off Just downloaded this app and paired my ps4 controller with no problem.  But there is a significant delay from the time you press a button to the time the action appears on screen. I really wanted this to work well for game emulators but it's a fail.  Nice try.
+Wtf So I got the on the go USB cable to connect my ps3 controller to my droid maxx and its not working at all I can't pair it and I cant use it because the app can't find my controller... I'm mad as hell why isn't it working I need help
+i'm running CM12.1 Nighly  So Your last version worked fine i was please with joy when using it but now everytime i hit the start button,the application crash.I've check the compatibility and it work fine.Fix this problem please,i'm going to download a older version of your app. Thank you i hope you respond soon.  Sorry my english is not perfect because my mother language is french
+Does not work on marshmallow Worked great on 5.1 but no longer works after updating to 6.0
+No Marshmallow Support Used this for a long time but now can't anymore because I updated my phone. Will change back to 5  when it works again. Thank you.
+Not working on Nexus 6P Just got my Nexus 6P and sadly this seems to not work with it. I keep getting failed to configure Bluetooth error.
+But need the marshmallow support please  Changed to one star because dev doesn't respond to email and isn't adding support for M.
+Needs more compatability Doesn't work on rooted note 4 with lollipop 5.0.1

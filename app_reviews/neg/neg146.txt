@@ -1,0 +1,1 @@
+error 24 unknown Error code  24 during application installation.  How do I find out what is the problem It was perfect when I used it before

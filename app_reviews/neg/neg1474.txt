@@ -1,0 +1,21 @@
+Galaxy S6 error OpenCV not initialized properly... Also see that 2.4 isnt installed most likely the problem. I read that you said that only 3.0 supports x64 but why not install 2.4 witj x86 if the phone is x64 Trying to download 2.4 apk but until this is fixed sadly Im going to have to leave it as 1 start because I cant use it
+Droid turbo fails to work This great product does not work on my new droid turbo.... What a shame
+Don't work on S6 edge
+Error on android 5 galaxy s6 Opencv manager doesn't initialized correctly  Why I really need it.what should I do 
+Does not work on my Samsung S6 OpenCV was not initialised correctly.....
+Galaxy s6 edge. Does not initialize correctly
+Fails to initialize Fail
+Rutik Good man
+Very bad
+N H
+Doesn't work for HTC m8 1 Due to the fact I have HTC there was no program on here for my phone it said it needed updating right after I finish installing it.  It was already updated I suggest you fix this problem. Newer phone mean you must make it work
+Not working on HTC One M9 Got the hardware, got the software, cvv doesn't work on HTC One m9. Solve asap please for 5 star rating.
+Lacks ARM v8 support Doesn't work at all on newer devices, as others have mentioned. Please address 
+Does not work on nexus 9 None of the opencv app seems to work. The opencv apps such as face detection says that the open CV library is not installed.
+Sucks It worked fine on my note 3, since I got a new phone want open, says not installed
+Good Its good but doesn't work on my divice huawei t1701.failed to captcher a photo.
+Not working Doesn't work on my Micromax.. Improve ur app...
+Doesn't work Was asked by duplicate image finder ap to dl this ap... but after installation it said device not found.  Clicking on the open cv ap just took me to an about page where I could check for update.  Did that...still nothing opens correctly.
+Doesn't work note 4 Open CV not working for photo fax
+does not work Though installed the apps using this cant find it
+Doesn't work for the note 4 very disappointed. Open cv manager says not found

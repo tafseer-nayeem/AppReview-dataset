@@ -1,0 +1,1 @@
+Update broke this app. Average speed does not work unless you reset it first. Preset speed warning does not change to the colors I select.

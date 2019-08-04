@@ -1,0 +1,2 @@
+Sad UI You removed tabletmode for my device after that horrible material design upgrade. I now have to rely on mods to get tablet view back
+Newest version still does not fix the annoying behavior of the top menu bar disappearing when you scroll up, but popping up when scrolling down. Please give the user the option of turning this stupid behavior off.

@@ -1,0 +1,2 @@
+Scaling problems The game functions perfectly, but the objects are scaled too small on the screen, which causes the touch controls to be higher than they should be and creates a black border where objects do not fill the screen.
+What now What do I do to make it start without 'forced stopping'. Same issue with feed me oil 1 when I try to purchase full game. I installed the latest versions and still not working

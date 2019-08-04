@@ -1,0 +1,10 @@
+Problem with the text I'm using NOTE 2 and Allian Cardboard Viewer the app starts wonderfully but past the start button we get 2 menus 1. Foundation 2. Immersion but on selecting any one of the two options all the text written is illegible
+Gaming controllers support needed Amazing app but I cannot configure zeemote js1 gaming controller to work with this app Does this app support any wireless controllers like zeemote js1 DebrisDefrag app works with zeemote controller
+SONY XPERIA Z1 Not Worked Just showing two blank screen and one setting button, nothing else.
+Does not work on my Xperia Aqua M4
+Black screen only on LG G3 On an LG G3 Android 4.4.2 with a custom QR code applied. All I get is a black screen with the cardboard sdk settings icon at the bottom center.
+Doesn't work on HTC one m7 Jumps around and won't allow any selections
+Doesn't support If CARDBOARD is not compatible with my device then what the use of this application in my device.
+Get the cardboard app What its already installed then its not working lol
+Just plain white when startup, Sucks
+Not working Not working on lenovo A6000 

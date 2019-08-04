@@ -1,0 +1,5 @@
+Can't cope with large databases Would love to say this works, the issue l have is random play with a over 50k of files.My database is 500Gb  of mp3. After about 3 tracks, it won't move to the next track, and completely freezes, or will freeze for 3 minutes, almost like the app has to reset itself. Hopefully this will be sorted in the next update, as it stands, I will have to return to Bubble.
+Always error on my S6 Edge after last updated. Please hurry to fix it.
+Now glichy I use the full paid version and it was all working fine. Then a update was installed other day now I can't search for anything has it just flips back to previous playing song. Please help with this. I'm using Huawei P8 Grace flagship. Its plays everything and anything you throw at it. But fare to Neutron development it the only time I've had a problem with neutron EVIL Player in over 5 years. Thanks
+All the functionality tweaks are appreciated but no change in the UI for 2 years if not more is a bit too much, don't you think  This player could get so much more popular...
+Why no quitstopexit button Why are you so opposed to this app stopping

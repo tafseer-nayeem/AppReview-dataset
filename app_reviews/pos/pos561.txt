@@ -1,0 +1,5 @@
+Previous version did not support intel chips and gave it 3 stars. Now it supports them so this thing rocks
+This application worked well until the last update. Opens fine but crashes when trying to view some contain with the app or through live channels. Still able to view contain with the  Kodi HDHomeRun plugin. Using the Developers Preview M image. Edit The latest update fixed the issues.
+runs great on my phone but not so great on my tablet... which just makes me think the problem is with the tablet and not the app. unfortunate but not your fault obviously.
+DRM channels work I can finally see all my channels including the drm ones I'm on kitkat and this works perfect on my phone LG G3 and tablet Samsung Galaxy Tab 3.
+Using it with a Samsung Galaxy S5. It works as advertised. Now, if only there was more live TV worth watching....

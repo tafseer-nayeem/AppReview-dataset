@@ -1,0 +1,14 @@
+buggy buggy buggy app controls rarely work right or fail to display entirely.  also when the app controls do work the channel lineup does not display at all when scrolling if no data is loaded. it should still show the channel number and frame for the logo and sample even if no logo or sample is available yet....
+Use the latest version on Nexus 5. SD channels are fine, while HD channels are spotty. Thought that two years old Nexus 5 is not fast enough. Today, I received Nexus 6P,playing of HD channels still spotty. What a surprise However, both VLC and MX player play HD channels quite smoothly on Nexus 6P.
+Doesn't work Just says to check my connection to the hdhomerun even though I'm on the same network with them. This is on Nexus 5. I can successfully ping the hdhomerun.
+No sound Works fine on my nexus player, but no audio on either of my phones running lollipop 5 android.
+Buggy and inconsistent Playback suddenly stops after a few seconds on my brand new Samsung Tab A.   Somehow it works better on my first gen Moto X.
+Poor playback Playback skips on my nexus 6 and my firetv. The xbmc addon plays flawlessly on both devices.
+No audio on android.  I have installed on both my OnePlus One and my Nvidia Shield TV.  Neither of the native apps play with sound, although the video is present.  If I install the Kodi HDHomerun app on either device, audio plays fine.  I would really rather not have to use this workaround.
+Cant handle HD HD channels freeze and stutter with this official app. The LG G3 is one of the most powerful phones...must be the app that isn't optimized. My 5yr old single core netbook can stream HD channels no problem with media center.
+Bugs and poor design It works. Sort of. For me first 3 channels work, but all remaining channels have no sound. This is Consistent across devices. Design is poor. No buttons. No settings. No customisation. No help or link to support. And I had to pay for this even though I already bought the hardware. Lift your game.
+Buggy I get you need money but release this as a beta before charging people for what you know isn't working right. It will get better though I've got faith.
+Doesn't work Doesn't work with my Motorola Droid, every time I go to open it, it crashes.
+Device detection failed Won't find my device and gives me no options to enter device deets manually.
+All device not supported and no refundable I paid for this useless none refundable app until now still not work with my euhdr3 but the free one on PC which is work really well. How ironic.
+Laggy  Please fix HD channels are so laggy please fix the problem samsung galaxy s4

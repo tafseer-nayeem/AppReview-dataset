@@ -1,0 +1,2 @@
+Very promising but buggy Creating collection from search filter results does that work. Cannot remove from collection. Some thumbnails are not displayed. Also hogs disk space.
+Problem Have alot of problems of loading the comics

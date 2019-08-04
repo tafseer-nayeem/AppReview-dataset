@@ -1,0 +1,1 @@
+Still has issues in Nexus smartphones Whenever I use this wordweb app and enter the word in the search box and when I try to press the home key button, I am still able to see the wordweb keypad occupying half of the home screen. This bug is not resolved from the start.

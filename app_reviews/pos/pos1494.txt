@@ -1,0 +1,24 @@
+I love this app so much I've been trying to recreate some of the design elements like the beautifully animated crosshair.  I've tried to recreate it for the past couple days with no success, so I hope they open source this app one day.   They also implement a brilliant way to move around the world while minimizingeliminating motion sickness.   Thank you Google  I still love staring down at that beach.
+So useful This is a fantastic app for all VR developers, great examples and concepts.  Any chance of open sourcing it It would be a good material for learning.
+Best experience so far It is a very vivid design guidelines with the best VR experience I had so far. Smooth, immersive  and not dizzy at all. Although got two questions 1 Why I feel that the text on different depth are of Tue same size 2 I liked the very smooth experience, however, for some games like roller coasters, isn't the ups and downs the point of the game I guess for that kind of game, the discomfort is un avoidable
+Fantastic Best looking VR app on the App Store Would you mind making another one Heh heh.
+Amazing Loved it. It really boosted my enthusiasm, and made me learn and reinforce lots of concepts regarding good practices and VR UX
+Launch it from the main app Launching from this apk just gives you a black screen with a gear, works fine from the main cardboard app where you launch the demo from. This is mostly idea introduction, ways to think about vr design, but it's a fun 10 minutes.
+Good standard Most vr apps available currently are at most experimental and lack in quality mainly because developers are new to vr programming. This app should be a good reference point to start on.
+One of the coolest cardboard app... And it's only a tutorial for developers
+Cardboard Design Lab It's amazing that the virtual reality comes to reallife.   
+Simply awesome. It is a design guide, however it does provide the best VR experience among all apps out there. For those who want to see what VR is all about, this is a must
+Amazing I wish more devs would follow this xD so many texts cues are too close.. This is a beautiful experience in itself as well.
+Awesome Even though this is just an example for developers, its still one of the best vr apps yet
+Best cardboard app Even though these are guidelines for vr developers,  still has the best demos compared any other app experience in playstore
+Cardboard design lab Great app to start in 3d
+Really great I would love to see a full featured game with this graphics 
+Incredible I've heard the hype about Oculus and never tried it. I didn't expect to get close to it on Cardboard but this was a beautiful experience for me.
+Cool App, the details and realistic scenes are very exciting
+Nice to see. This is a brief summary of what you can expect from future cardboard apps. Well done and without the fuzz. Although the modeling is not the most detailed it is very impressive. And thanks to the not to complex modeling it runs quite fluent on my old galaxy nexus.
+Very well done This app really does a good job of showing some of the design basics of VR that need to be considered when developing VR apps.
+Good one I'm thinking of using this as getting comfortable in vr demo
+Jos A. 290615...to...kfr...thank's...
+Brilliant Shows you the possibilities of vr
+Educational This app is all you need if you're getting into making VR worlds. Step by step you learn what it takes. Nice Google
+Teaching VR through VR Excellent way to demonstrate the emerging principles of virtual reality. Releasing the code so that others can see how it is implemented, would be even more useful to those of us developing for cardboard.

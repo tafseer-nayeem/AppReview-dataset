@@ -1,0 +1,10 @@
+In comparison to the iOS version it's lame. Awful implementation hopefully you don't get a chance to see what a great job they did on the iOS version and what a hack job the slapped onto the Android platform.
+Promising, but needs work This could easily be the best Android chess app, but at present it needs polishing. The UI desperately needs to be overhauled and modernised, and many needed features should be added. Examples include autosave, finegrained time controls and pause clocks option, full move list in game with random access, and extra info like the opening namecode, more detailed statistics, etc. Full game analysis would also be great.
+Was working fine until I got Android 5.1 and not anymore It used to be my favourite chess game but not anymore. It does not work anymore on my Oneplus one with Android 5.1. It keeps crashing the moment I open it.
+Author do not respond to user suggestions at all Although it has been more than 4 years and after many emails between me and the author where I suggested him to make improvements for the game, he promised he will do it  but till now he did nothing
+GAME CHEATS When game is about to lose it uses perpetual check to force a three fold repetition draw  this is breaking the official rules of chess. ALSO game can castle even if you have one of your pieces aimed between its king and rook  BUT I cannot castle when in same situation. like this for years but developer too lazy to fix
+Waste of money Pls dont buy this app.I have been cheated. I paid and got this nonsense app.
+It doesn't load pgn files or have the opening book, for 8 dollars
+Poor interface but plays chess well I think it needs a lot of improvements to the interface.
+This game has potential. There must have been a couple of dozen ways to adjust playing strength. The sliding adjuster is virtually imposible to control with any precision.  Also, when playing out a tactics variation, if you allow the screen to rotate, you lose all the moves  have to start all over.
+Wish I could get a refund Stop using your queen so early and only to trade queens

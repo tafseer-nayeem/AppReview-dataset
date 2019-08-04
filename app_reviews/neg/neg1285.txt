@@ -1,0 +1,5 @@
+Please fix you extSdcard path setting The recent update of shareit and Xender had fixed their receiving path issue that can be set to either internal or external card your app is not able to do so. It is good but please update it.
+Can't find what i transferred I can't find the pic in the gallery which i had transferred from my pc to mobile through this app otherwise it is good
+I dont know how to use it
+Not working This app is not at all working on my nexus 6 having Android M
+Abubakar's The data transfer rate is tooo slow fix it

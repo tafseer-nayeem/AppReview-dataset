@@ -1,0 +1,13 @@
+Problem I just have to install it or i have to browse in my mx player settings and locate the .apk file of this codec....because i am not able to see whether the custom codec is installed properly and is working  Solve my problem and i'll give 5 stars
+Pointless Installed this codec and DTS still isn't supported in MX Player. I had to do the usual download the zipped codec from XDA, extract and point the app to the extracted file. Pita.
+AC3 is not supported I used to love this app but now after updating I'm asking the developer, would you please help every one get through this problem.
+DOES NOT WORK. I had to download the working codec from XDA. I mean, SERIOUSLY guys The official codec from play store is UNABLE to support DTS and AC3 Really What were you smoking when you made this, dev
+No Audio Sometime in some movies which have sound 5.1 ac3 it didnt support the audio so plz solve the problem.....
+We need AC3 I download movie from pc to my phone  and there's no sound  when I played itit give me a message with Coordinate system AC3 can't support 
+installing this doesn't work. you have to download and compress the file and then locate it from MX player
+Error Ac3 not supported I downloaded it twice and it just repeat the hell saying ac3 not supported...plz do something......
+Really AC3 audio has been out for quite some time yet this Codec plugin won't work
+Unable to find codec I hve downloaded the ARMv7 NEON but I couldn't find in my phne plzz do help I'll rate for 5 stars
+problem i just installed codec but in mx player still ac3 not supported
+I installed it but it's disappeared. can't find it on my tab.i am gonna un install it now,
+There is a problem Everything is fine but ac3 isn't working. That's why I having some problems to play in different languages, and sometime it runs as a mute cinema.

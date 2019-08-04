@@ -1,0 +1,3 @@
+Ehh This would have a better purpose if it were more than just a route planner with POI on it. Give this a GPS option and it would be perfect. It's dumb to use one app to plan a route, to go to another for the GPS.
+Clean up the location reviews You really need to require people to sign in to write location reviews, and if they get too many complaints about language, their phone gets blocked from writing more site reviews. It really makes your app, and its data look like its maintained by amateurs.
+Room for improvement I would like to see this app have a save route option. Also would like for it to show alternate routes and identify other roads in the area.

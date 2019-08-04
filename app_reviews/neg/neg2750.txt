@@ -1,0 +1,1 @@
+Used to work just fine.. After recent update, app always hang. Stop at second words, and make my hp freeze.

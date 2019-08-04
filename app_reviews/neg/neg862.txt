@@ -1,0 +1,4 @@
+No support for HBCI chip card readers REINERSCT cyberJack wave support for using HBCI chip cards is missing 
+Kein Support von AndroidFunktion ffnen mit Und warum kann man den Speicherort, lokal im Handy, nicht einstellen Ich synchronisiere automatisch mit Owncloud und mchte die Datei auch nur im Ordner der OwncloudApp speichern Wie wre es mit Remember last folder
+Google Drive please add Google Drive as provider
+Seit letzter Woche kann ich meine Konten nicht mehr laden...

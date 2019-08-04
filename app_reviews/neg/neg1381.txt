@@ -1,0 +1,5 @@
+Stop auto starting when changing networks also zoom out further needed So far so good, just need to be able to zoom out further to be able to get your bearings. It auto starts when changing networks. Why
+Was working fine... Not any more Refuses to launch on my Nexus 7. Just a black screen.
+Cant open Doesnt work
+Japan... Not ideal Bought the pro version before travelling to Japan. For Tokyo, there are no street names and all suburbs quarters are listed in Japanese Kanji. Great. Also very slow to load off line map data. I'll need to look elsewhere I think.
+Crashed constantly Got it for our trip to Paris and it was useless because it kept on crashing. Maybe it works on iPhone but not my android.
